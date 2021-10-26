@@ -1,0 +1,19 @@
+{
+  "name": "home_b4_2_7",
+  "version": "1.0.0",
+  "description": "My hw B4.2.7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SVIELCOM/Home_B4_2_7.git"
+  },
+  "author": "Vladislav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SVIELCOM/Home_B4_2_7/issues"
+  },
+  "homepage": "https://github.com/SVIELCOM/Home_B4_2_7#readme"
+}
