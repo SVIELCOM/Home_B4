@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SVIELCOM/Home_B4_2_7/issues"
   },
-  "homepage": "https://github.com/SVIELCOM/Home_B4_2_7#readme"
+  "homepage": "https://github.com/SVIELCOM/Home_B4_2_7#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
 }
