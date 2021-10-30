@@ -1,1 +1,9 @@
 node_modules/
+vendor/autoload.php
+composer.phar
+**vendor/bin/
+**vendor/composer/
+**vendor/doctrine/
+**vendor/egulias/
+**vendor/symfony/
+
