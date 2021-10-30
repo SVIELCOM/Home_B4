@@ -1,0 +1,13 @@
+{
+    "name": "vladislav/home_b4",
+    "description": "home_work_b4",
+    "authors": [
+        {
+            "name": "Vlad",
+            "email": "svielcom@gmail.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^6.3"
+    }
+}
